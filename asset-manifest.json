@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b9ae9f7.chunk.css",
-    "main.js": "/static/js/main.f7bfacce.chunk.js",
-    "main.js.map": "/static/js/main.f7bfacce.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.700a0830.js",
-    "runtime-main.js.map": "/static/js/runtime-main.700a0830.js.map",
-    "static/css/2.764ccc25.chunk.css": "/static/css/2.764ccc25.chunk.css",
-    "static/js/2.d7cc62e2.chunk.js": "/static/js/2.d7cc62e2.chunk.js",
-    "static/js/2.d7cc62e2.chunk.js.map": "/static/js/2.d7cc62e2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.81661c8876c96139cad2a115db7ae8eb.js": "/precache-manifest.81661c8876c96139cad2a115db7ae8eb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.9b9ae9f7.chunk.css.map": "/static/css/main.9b9ae9f7.chunk.css.map",
-    "static/js/2.d7cc62e2.chunk.js.LICENSE": "/static/js/2.d7cc62e2.chunk.js.LICENSE",
-    "static/media/logo.svg": "/static/media/logo.b095188b.svg"
+    "main.css": "/ex1-music-app-setapp.pl/static/css/main.9b9ae9f7.chunk.css",
+    "main.js": "/ex1-music-app-setapp.pl/static/js/main.82a1d68b.chunk.js",
+    "main.js.map": "/ex1-music-app-setapp.pl/static/js/main.82a1d68b.chunk.js.map",
+    "runtime-main.js": "/ex1-music-app-setapp.pl/static/js/runtime-main.50f7a842.js",
+    "runtime-main.js.map": "/ex1-music-app-setapp.pl/static/js/runtime-main.50f7a842.js.map",
+    "static/css/2.764ccc25.chunk.css": "/ex1-music-app-setapp.pl/static/css/2.764ccc25.chunk.css",
+    "static/js/2.0d268ae8.chunk.js": "/ex1-music-app-setapp.pl/static/js/2.0d268ae8.chunk.js",
+    "static/js/2.0d268ae8.chunk.js.map": "/ex1-music-app-setapp.pl/static/js/2.0d268ae8.chunk.js.map",
+    "index.html": "/ex1-music-app-setapp.pl/index.html",
+    "precache-manifest.7d2fdc441c71ea5806f976138769023c.js": "/ex1-music-app-setapp.pl/precache-manifest.7d2fdc441c71ea5806f976138769023c.js",
+    "service-worker.js": "/ex1-music-app-setapp.pl/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/ex1-music-app-setapp.pl/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.9b9ae9f7.chunk.css.map": "/ex1-music-app-setapp.pl/static/css/main.9b9ae9f7.chunk.css.map",
+    "static/js/2.0d268ae8.chunk.js.LICENSE": "/ex1-music-app-setapp.pl/static/js/2.0d268ae8.chunk.js.LICENSE",
+    "static/media/logo.svg": "/ex1-music-app-setapp.pl/static/media/logo.b095188b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.700a0830.js",
+    "static/js/runtime-main.50f7a842.js",
     "static/css/2.764ccc25.chunk.css",
-    "static/js/2.d7cc62e2.chunk.js",
+    "static/js/2.0d268ae8.chunk.js",
     "static/css/main.9b9ae9f7.chunk.css",
-    "static/js/main.f7bfacce.chunk.js"
+    "static/js/main.82a1d68b.chunk.js"
   ]
 }
