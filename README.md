@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[demo](https://mrt123.github.io/ex1-music-app-setapp.pl/)
+
 ## Available Scripts
 
 Don't forget to run `yarn install` after checkout.
