@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb8b1b7f373cdfd3610db978eaaf824e",
+    "revision": "f260df195c6ad04a467257f80890f6f6",
     "url": "/ex1-music-app-setapp.pl/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ex1-music-app-setapp.pl/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "4cb7eeb127d533bc9c6a",
-    "url": "/ex1-music-app-setapp.pl/static/css/main.9b9ae9f7.chunk.css"
+    "revision": "9383851566ae8bc3ea78",
+    "url": "/ex1-music-app-setapp.pl/static/css/main.bb3d8887.chunk.css"
   },
   {
     "revision": "e249a9ab32960f010ec9",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ex1-music-app-setapp.pl/static/js/2.0d268ae8.chunk.js.LICENSE"
   },
   {
-    "revision": "4cb7eeb127d533bc9c6a",
-    "url": "/ex1-music-app-setapp.pl/static/js/main.82a1d68b.chunk.js"
+    "revision": "9383851566ae8bc3ea78",
+    "url": "/ex1-music-app-setapp.pl/static/js/main.a90d2f42.chunk.js"
   },
   {
     "revision": "3eb604a45fc8ee78e533",
