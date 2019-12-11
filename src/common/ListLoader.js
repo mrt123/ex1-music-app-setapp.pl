@@ -20,7 +20,7 @@ export default () => {
     <ListLoader>
       <div>
         <Spinner cycleTime="0.5s">
-          <SpinnedImage src={reactLogo} className="App-logo" alt="logo"/>
+          <SpinnedImage src={reactLogo}/>
         </Spinner>
       </div>
       ...loading
