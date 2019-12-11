@@ -7,9 +7,5 @@ import {albumList} from "./iTunesAlbumsApi.js";
 export default () => {
   const { isLoading, data  } = useFetch("https://itunes.apple.com/us/rss/topalbums/limit=100/json");
   const albumListData = albumList(data);
-  const content = isLoading ? <ListLoader/> : <AlbumList data={albumListData}/>;
-
-  return (
-    <div>{content}</div>
-  )
+  return isLoading ? <ListLoader/> : <AlbumList data={albumListData}/>;
 }
